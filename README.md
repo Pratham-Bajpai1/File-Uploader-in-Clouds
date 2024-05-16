@@ -1,7 +1,5 @@
 # 🌟 Smart Cloud System 🌟
 
-![Cloud](https://i.imgur.com/FO8U0ia.png)
-
 Welcome to **Smart Cloud System**, a user-friendly application that allows you to seamlessly upload and manage files across multiple cloud services with a simple graphical user interface.
 
 ## Features
@@ -11,10 +9,6 @@ Welcome to **Smart Cloud System**, a user-friendly application that allows you t
 - **Download Anywhere**: Download files from any of the integrated cloud services with a single click.
 - **User-Friendly Interface**: Intuitive GUI for easy navigation and usage.
 
-## Screenshots
-![Screenshot 1](https://i.imgur.com/UeRpJfl.png)
-
-![Screenshot 2](https://i.imgur.com/6bC6e2v.png)
 
 ## Usage
 1. **Select a File**: Click on the "Browse" button to select a file from your local system.
